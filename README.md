@@ -55,9 +55,9 @@ Here are some of my favorite projects that reflect my learning and problem-solvi
 
 ## 📫 Connect with Me:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) <!-- Replace with actual -->
-- 📧 Email: your.email@example.com <!-- Replace with actual -->
-- 💻 GitHub: [github.com/vishnugiri](https://github.com/vishnugiri)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vishnu-giri-goswami-290095366)
+- 📧 Email:(vishnugirigoswami88@gmail.com)
+- 💻 GitHub: 
 
 ---
 
